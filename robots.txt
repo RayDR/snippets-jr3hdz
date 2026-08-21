@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RayDR.github.io/snippets-jr3hdz/sitemap.xml
